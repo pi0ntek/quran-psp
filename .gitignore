@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# PSP build artifacts
+EBOOT.PBP
+PARAM.SFO
+*.elf
+*.prx
+*.o
+*.a
+build/
