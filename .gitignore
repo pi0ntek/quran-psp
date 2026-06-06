@@ -54,6 +54,8 @@ dkms.conf
 # debug information files
 *.dwo
 
+.DS_Store
+
 # PSP build artifacts
 EBOOT.PBP
 PARAM.SFO
